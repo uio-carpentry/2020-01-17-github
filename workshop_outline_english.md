@@ -136,7 +136,7 @@ This workshop will teach you how to do these things, and more. The workshop is a
 * explain forking
 * instructor makes new repo for biographies
 * second instructor, demonstrate adding bio as PR
-	* for the repo
+	* fork the repo
 	* add a new file in fork
 	* find 'submit PR' button on forked repo
 	* follow PR steps
