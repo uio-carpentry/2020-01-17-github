@@ -36,10 +36,6 @@ You must bring a laptop or a tablet with wifi enabled.
 No! To get use out of this workshop, you don't need to know any programming language or do any coding.
 We will work with text files only.
 
-**Where do I register for the workshop?**
-
-Sign up [here]() for the workshop on 17th January 2020
-
 ## Workshop @ Blindern Campus
 
 |||
